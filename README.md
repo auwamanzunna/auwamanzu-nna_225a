@@ -1,4 +1,4 @@
-# auwamanzu-nna_225a
+# Augusta Uwamanzu-Nna
  
 This is my repo for BMS 225A - Data Science. My work is organized as follows:
 
